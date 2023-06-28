@@ -1,0 +1,40 @@
+Criteria,MDDR_Comment,WHO_Comment,Literature citation,Gene,Mutation,Drug,Confers
+lineage 2.2.1.1 (n=23),,,,embB,p.Pro136Ser,,S
+WHO: 5) Not assoc w R,, 5) Not assoc w R,,embB,p.Gln139His,,S
+lineage 4.1.2 (n=28),,,,embB,p.Ser203Leu,,S
+WHO: 5) Not assoc w R,, 5) Not assoc w R,,embB,p.Arg213Gln,,S
+WHO: 5) Not assoc w R,not reported, 5) Not assoc w R,,embB,p.Glu378Ala,,S
+lineage 2.2.2 (n=50),,,,embB,p.Thr797Pro,,S
+lineage 4.8 (n=31),,,,embB,p.Pro969Ser,,S
+WHO: 5) Not assoc w R,, 5) Not assoc w R,,embB,p.Ser1054Pro,,S
+lineage 2.2.1 (n=130),, 4) Not assoc w R - Interim,,embB,p.Thr1082Ala,,S
+WHO: 1) Assoc w INH R,INH resistant., 1) Assoc w INH R and 2) Assoc w ETH R - Interim,,fabG1,p.Leu203Leu,INH,R
+see citation,, 4) Not assoc w R - Interim,"Malik S, Willby M, Sikes D, Tsodikov OV, Posey JE. New insights into fluoroquinolone resistance in Mycobacterium tuberculosis: functional genetic analysis of gyrA and gyrB mutations. PLoS One. 2012;7(6):e39754. doi: 10.1371/journal.pone.0039754. Epub 2012 Jun 28. PMID: 22761889; PMCID: PMC3386181.",gyrA,p.Ala90Gly,,S
+M.orygis (n=26),,,,gyrB,p.Ile493Thr,,S
+lineage 4.1.1.3 (n=73),,,,katG,p.Pro6Ser,,S
+M. bovis (n=33),,,,katG,p.Val73Ala,,S
+lineage 1.2.1 (n=38),Effect of this mutation on INH resistance is unknown. Cannot rule out INH resistance.,,,katG,p.Pro280Ser,,S
+WHO: 5) Not assoc w R,not reported, 5) Not assoc w R,,katG,p.Arg463Leu,,S
+WHO: 5) Not assoc w R,, 5) Not assoc w R,,katG,p.Val469Leu,,S
+MDDR: Likely PZA resistant,Likely PZA resistant.,,,pncA,p.Met1Ile,PZA,R
+MDDR: Likely PZA resistant,Likely PZA resistant.,,,pncA,p.Ala28Thr,PZA,R
+MDDR: Not associated with PZA resistance,Not associted with PZA resistance (1/1 SUS), 4) Not assoc w R - Interim,,pncA,p.Leu35Arg,,S
+MDDR: Not associated with PZA resistance,Not associated with PZA resistance.,,,pncA,p.Glu37Val,,S
+MDDR: PZA resistant,PZA resistant.,,,pncA,p.Ala102Val,PZA,R
+MDDR: Not associated with PZA resistance,Not associated with PZA resistance.,,,pncA,p.Asp110Gly,,S
+MDDR: Likely PZA resistant,Likely PZA resistant.,,,pncA,p.Trp119Leu,PZA,R
+lineage 4.8 (n=74),"Effect of this mutation on PZA resistance is unknown.
+Cannot rule out PZA resistance.",,,pncA,p.Thr135Ala,,S
+M. bovis (n=28),Effect of this mutation on PZA resistance is unknown. Cannot rule out resistance.,,,pncA,p.Gly162Ser,,S
+MDDR: Not associated with PZA resistance,Not associated with PZA resistance.,,,pncA,p.Val163Ala,,S
+MDDR: Not associated with PZA resistance,Not associated with PZA resistance.,,,pncA,p.Ala170Val,,S
+MDDR: Not associated with PZA resistance,Not associated with PZA resistance.,,,pncA,p.Val180Ile,,S
+MDDR: Likely PZA resistant,Likely PZA resistant.,,,pncA,p.Ter187Arg,PZA,R
+MDDR: PZA resistant,PZA resistant.,,,pncA upstream,c.-11G>A,PZA,R
+MDDR: Likely RIF resistant,Likely RIF resistant.,,,rpoB,p.Gln432del,RIF,R
+MDDR: RIF resistant,RIF resistant.,,,rpoB,p.Phe433dup,RIF,R
+MDDR: Likely RIF resistant,Likely RIF resistant.,,,rpoB,p.Asn438del,RIF,R
+see citation,,,"Kandler JL, Mercante AD, Dalton TL, Ezewudo MN, Cowan LS, Burns SP, Metchock B; Global PETTS Investigators, Cegielski P, Posey JE. Validation of Novel Mycobacterium tuberculosis Isoniazid Resistance Mutations Not Detectable by Common Molecular Tests. Antimicrob Agents Chemother. 2018 Sep 24;62(10):e00974-18. doi: 10.1128/AAC.00974-18. PMID: 30082293; PMCID: PMC6153830.",katG,p.Leu415Pro,INH,R
+see citation,,,"Kandler JL, Mercante AD, Dalton TL, Ezewudo MN, Cowan LS, Burns SP, Metchock B; Global PETTS Investigators, Cegielski P, Posey JE. Validation of Novel Mycobacterium tuberculosis Isoniazid Resistance Mutations Not Detectable by Common Molecular Tests. Antimicrob Agents Chemother. 2018 Sep 24;62(10):e00974-18. doi: 10.1128/AAC.00974-18. PMID: 30082293; PMCID: PMC6153830.",katG,p.Trp328Arg,INH,R
+see citation,,,"Kandler JL, Mercante AD, Dalton TL, Ezewudo MN, Cowan LS, Burns SP, Metchock B; Global PETTS Investigators, Cegielski P, Posey JE. Validation of Novel Mycobacterium tuberculosis Isoniazid Resistance Mutations Not Detectable by Common Molecular Tests. Antimicrob Agents Chemother. 2018 Sep 24;62(10):e00974-18. doi: 10.1128/AAC.00974-18. PMID: 30082293; PMCID: PMC6153830.",katG,p.Trp300Arg,INH,R
+see citation,,,"Kandler JL, Mercante AD, Dalton TL, Ezewudo MN, Cowan LS, Burns SP, Metchock B; Global PETTS Investigators, Cegielski P, Posey JE. Validation of Novel Mycobacterium tuberculosis Isoniazid Resistance Mutations Not Detectable by Common Molecular Tests. Antimicrob Agents Chemother. 2018 Sep 24;62(10):e00974-18. doi: 10.1128/AAC.00974-18. PMID: 30082293; PMCID: PMC6153830.",katG,p.Trp161Arg,INH,R
